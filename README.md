@@ -1,0 +1,1 @@
+This Github repository was created with the intention of making an accessible coding portfolio as a helpful tool for showcasing my skills and experience with peers and potential employers. I aim to provide a concrete representation of my abilities while in the competative field of Information Security. 
