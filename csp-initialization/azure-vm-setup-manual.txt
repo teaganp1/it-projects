@@ -1,0 +1,2 @@
+# This guide is intended to walk an average user through the process of manually setting up three Azure Free-tier virtual machines. These systems will serve as blank servers/workstations in other IT related projects. 
+# Modern IT infrastructure has a significant impact on the way businesses operate. It is crucial for IT professionals and organizations as it provides the foundation for building scalable, cost-effective, and resilient IT infrastructures that can adapt to the dynamic needs of the business environment.
